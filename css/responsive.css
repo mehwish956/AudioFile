@@ -1,0 +1,330 @@
+@media (max-width: 1024px) {
+  .microphone_div {
+    width: 43px;
+  }
+  #At-sectionAudioFile {
+    position: relative;
+  }
+}
+@media (max-width: 992px) {
+  #At-sectionAudioFile #Upload_btn2 {
+    right: 1rem;
+  }
+  #At-UploadFile {
+    width: 100%;
+  }
+  #At-UploadingFile {
+    height: auto;
+  }
+
+  #At-UploadingFile1 {
+    width: 100%;
+  }
+}
+@media (max-width: 997px) {
+  #upload_file {
+    width: 349px;
+    margin: 54px 9px 0px 10px;
+  }
+}
+@media (max-width: 768px) {
+  #At-UploadFile .drapdrop_text {
+    font-size: 16px;
+  }
+  #At-sectionAudioFile #Upload_btn2 {
+    right: 1rem;
+  }
+  #At-sectionAudioFile .Transcripts_text {
+    margin-top: 1rem;
+  }
+  #At-sectionAudioFile #Upload_btn3 {
+    margin-top: 1rem;
+  }
+  #At-UploadingFile1 {
+    margin-top: 1rem;
+  }
+  #Transcribe_btn {
+    margin-top: 1rem;
+  }
+  #At-sectionAudioFile .Transcripts_heading {
+    font-size: 16px;
+  }
+  #At-UploadingFile #englishtranscribe-text {
+    font-size: 15px;
+  }
+  .microphone_div {
+    width: 113px;
+    height: 51px;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    top: 15px;
+    left: 19px;
+  }
+}
+@media (max-width: 576px) {
+  .container-fluid {
+    padding: 30px 20px;
+  }
+  #At-UploadFile {
+    padding: 20px;
+  }
+
+  #music_lay {
+    height: 54px;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 22px;
+    top: 15px;
+    left: 19px;
+  }
+}
+@media (max-width: 500px) {
+  #At-sectionAudioFile .Transcripts_text {
+    font-size: 20px;
+  }
+  #At-sectionAudioFile .Transcripts_heading {
+    font-size: 16px;
+  }
+}
+@media (max-width: 414px) {
+  #Avionic {
+    font-size: 15px;
+  }
+  .microphone_div {
+    width: 36%;
+    height: 40px;
+    margin-right: 10px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    font-size: 39px;
+    margin-left: 10px;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 19px;
+    top: 10px;
+    left: 13px;
+  }
+  #At-UploadingFile #englishtranscribe-text {
+    font-size: 13px;
+  }
+  #At-UploadingFile {
+    padding: 25px;
+    width: 100%;
+  }
+  #At-UploadingFile1 {
+    width: 100%;
+    padding: 20px;
+    margin-top: 2rem;
+  }
+  #Transcribe_btn {
+    height: 50px;
+    width: 100%;
+    font-size: 15px;
+    padding: 14px;
+  }
+  #At-sectionAudioFile #Upload_btn1 {
+    font-size: 14px;
+  }
+  #At-UploadFile .drapdrop_text {
+    font-size: 14px;
+  }
+  #At-sectionAudioFile #Upload_btn2 {
+    width: 200px;
+    height: 44px;
+    line-height: 45px;
+    font-size: 14px;
+  }
+  .container-fluid {
+    padding: 30px;
+  }
+  #At-sectionAudioFile #profile_images {
+    width: 50px;
+    height: 50px;
+  }
+  #At-sectionAudioFile .Transcripts_text {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 23px;
+  }
+  #At-sectionAudioFile .Transcripts_heading {
+    font-size: 16px;
+  }
+  #upload_file {
+    width: 100%;
+    height: 212px;
+    margin: 30px 30px 0px 30px;
+  }
+  #At-ProgressbarloadingFile {
+    padding: 25px;
+    width: 100%;
+    height: 257px;
+  }
+  #frame {
+    width: 33%;
+  }
+  #At-sectionAudioFile #Upload_btn {
+    height: 44px;
+    font-size: 14px;
+    margin-top: 11px;
+    padding: 11px;
+  }
+  .Add_More {
+    text-align: center;
+    justify-content: center;
+  }
+  #At-sectionAudioFile #Upload_btn3 {
+    font-size: 14px;
+    padding: 11px;
+    height: 44px;
+  }
+  .one {
+    margin-top: 25px;
+  }
+  #arrow_back {
+    width: 85%;
+  }
+}
+@media (max-width: 375px) {
+  #At-UploadingFile1 .fa-stop-circle {
+    font-size: 41px;
+  }
+  #At-sectionAudioFile #Upload_btn1 {
+    font-size: 15px;
+  }
+  #arrow_back {
+    width: 80%;
+  }
+  #At-sectionAudioFile #Upload_btn3 {
+    margin-top: 2rem;
+  }
+  .microphone_div {
+    width: 47%;
+  }
+}
+@media screen and (min-width: 921px) and (max-width: 988px) {
+  .microphone_div {
+    width: 60px;
+    height: 45px;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 9px;
+    left: 15px;
+  }
+}
+@media screen and (min-width: 772px) and (max-width: 920px) {
+  .microphone_div {
+    width: 84px;
+    height: 45px;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 9px;
+    left: 15px;
+  }
+}
+@media screen and (min-width: 748px) and (max-width: 771px) {
+  .microphone_div {
+    width: 17%;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 16px;
+  }
+}
+@media screen and (min-width: 700px) and (max-width: 719px) {
+  .microphone_div {
+    width: 21%;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 16px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+}
+@media screen and (min-width: 594px) and (max-width: 679px) {
+  .microphone_div {
+    width: 29%;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 16px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+}
+@media screen and (min-width: 564px) and (max-width: 592px) {
+  .microphone_div {
+    width: 41%;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 16px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+}
+@media screen and (min-width: 519px) and (max-width: 563px) {
+  .microphone_div {
+    width: 22%;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 16px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+}
+@media screen and (min-width: 446px) and (max-width: 518px) {
+  .microphone_div {
+    width: 30%;
+    height: 50px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 16px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+}
+@media screen and (min-width: 415px) and (max-width: 446px) {
+  .microphone_div {
+    width: 51%;
+    height: 44px;
+    margin-right: 1rem;
+  }
+  #At-UploadingFile1 .fa-microphone {
+    font-size: 23px;
+    top: 11px;
+    left: 14px;
+  }
+  #At-UploadingFile1 .fa-stop-circle {
+    margin-left: 1rem;
+  }
+}
